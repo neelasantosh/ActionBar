@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/action_square"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="ifRoom"
+        android:title="Square"/>
+    <item
+        android:id="@+id/action_cube"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="ifRoom"
+        android:title="Cube"/>
+    <item
+        android:id="@+id/action_factorial"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="ifRoom"
+        android:title="factorial"/>
+    <item
+        android:id="@+id/action_go"
+        android:icon="@drawable/ic_launcher"
+        android:showAsAction="ifRoom"
+        android:title="GO"/>
+
+</menu>
